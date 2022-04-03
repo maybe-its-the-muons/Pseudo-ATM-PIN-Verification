@@ -1,3 +1,5 @@
+#Sample coursework from graduate program. 
+
 #Function to assess whether account balance is greater than 0 by random
 def account_balance():
     #Generating random account balance between 0 and 100
